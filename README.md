@@ -1,1 +1,1 @@
-# Slot-Machine
+# Slot-Machine casino game
